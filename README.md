@@ -2,7 +2,8 @@
 <br>
 I'm Tamara Harris :blush:
 <br>
-#### :hammer_and_wrench: Technologies and Tools I use:
+
+<h4> :hammer_and_wrench: Technologies and Tools I use: </h4>
 
 <p align="left">
     <!-- HTML -->
@@ -36,10 +37,6 @@ I'm Tamara Harris :blush:
 - :dart: Life Hack: "Outwork the Competition, even if it's yourself." 
 - :trophy: Fellow of Coding Black Females
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-
-#### :hearts: Let's get connected:
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamaradharris/)](https://www.linkedin.com/in/tamaradharris/) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codenametam)](https://twitter.com/codenametam) 
-
 
 
 <!--
