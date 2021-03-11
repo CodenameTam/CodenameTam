@@ -1,8 +1,6 @@
 ### Hello! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 ## I'm Tamara Harris :blush:
-<br>
-
 <h5> :hammer_and_wrench: Technologies and Tools I use: </h5>
 <br>
 <p align="left">
@@ -28,7 +26,7 @@
 <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
     </p>
     
- #### :woman_technologist: About Me:
+<h5> :woman_technologist: About Me: </h5>
 
 - :computer: I'm currently Full-Stack but passionate about Front-End
 - :hourglass_flowing_sand: Exploring AWS and getting comfortable with React
