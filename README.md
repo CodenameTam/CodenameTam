@@ -3,8 +3,8 @@
 ## I'm Tamara Harris :blush:
 <br>
 
-<h4> :hammer_and_wrench: Technologies and Tools I use: </h4>
-
+<h5> :hammer_and_wrench: Technologies and Tools I use: </h5>
+<br>
 <p align="left">
     <!-- HTML -->
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
