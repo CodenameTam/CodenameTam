@@ -4,7 +4,7 @@
     
 <h5> :woman_technologist: About Me: </h5>
 
-- :computer: I'm currently Full-Stack but passionate about Front-End
+- :computer: I've completed Full-Stack trainings but passionate about Front-End
 - :hourglass_flowing_sand: Exploring PHP and using Wordpress
 - :rocket: Always ready to collaborate for group Dev projects
 - :desktop_computer: Former Voyager for Pair-Programming with Chingu
